@@ -53,6 +53,6 @@ This project is a Power BI dashboard built using the Superstore dataset. It help
 
 ---
 
-## 🚀 Outcome
+##  Outcome
 This dashboard provides clear insights into business performance, helping identify profit drivers and loss-making areas for better decision-making.
 
