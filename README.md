@@ -1,11 +1,11 @@
-# 📊 Superstore Sales Analysis Dashboard
+# Superstore Sales Analysis Dashboard
 
-## 📌 Project Overview
+##  Project Overview
 This project is a Power BI dashboard built using the Superstore dataset. It helps analyze business performance by tracking key metrics like sales, profit, orders, and regional performance. The goal is to convert raw data into meaningful insights for better decision-making.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Analyze overall sales and profit performance
 - Identify top-performing categories and products
 - Understand regional and segment-wise performance
@@ -14,7 +14,7 @@ This project is a Power BI dashboard built using the Superstore dataset. It help
 
 ---
 
-## 📂 Dataset Information
+##  Dataset Information
 - Source: Superstore Dataset (Kaggle / Sample Dataset)
 - Key Columns:
   - Order Date
@@ -28,7 +28,7 @@ This project is a Power BI dashboard built using the Superstore dataset. It help
 
 ---
 
-## 📈 Key KPIs
+##  Key KPIs
 - Total Sales  
 - Total Profit  
 - Total Orders  
@@ -36,7 +36,7 @@ This project is a Power BI dashboard built using the Superstore dataset. It help
 
 ---
 
-## 📊 Visualizations Used
+##  Visualizations Used
 - KPI Cards (Sales, Profit, Orders)
 - Line Chart (Profit Trends over Time)
 - Bar Charts (Category & Sub-Category Analysis)
@@ -46,7 +46,7 @@ This project is a Power BI dashboard built using the Superstore dataset. It help
 ---
 
 
-## 🛠 Tools Used
+## Tools Used
 - Power BI
 - Microsoft Excel (Data Cleaning)
 - Superstore Dataset
